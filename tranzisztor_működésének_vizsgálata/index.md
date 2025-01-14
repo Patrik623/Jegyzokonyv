@@ -24,7 +24,7 @@ Kapcsolási rajz megvalósitása:
 
 > Mérés Eredményei:
 
-| uBe    | uRc (V)  |  I   |
+| uBe (V)    | uRc (V)  |  I (mA)  |
 |-------|-----      |------|
 |  0    | 0         | 0    |
 | 0,5   | 0,002     | 0,009    |
