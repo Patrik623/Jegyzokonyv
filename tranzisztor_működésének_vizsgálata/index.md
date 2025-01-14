@@ -36,4 +36,9 @@ Kapcsolási rajz megvalósitása:
 | 1,1   | 2,66      |  12,090    |
 | 1,2   | 2,67      |  12,136   |
 | 1,3   | 2,68      |  12,181   |
-> A mérés soránt azt vettem észre hogy 1,3V felett nem változnak az értékek.
+> A mérés soránt azt vettem észre hogy 1,3V felett nem változnak az értékek.   
+ 
+A tranzisztoron átfolyó áramerősség ábrázolása bemeneti feszültség fügvényében.  
+![Névtelen terv](https://github.com/user-attachments/assets/0ed374b9-519c-4602-b339-3bf5d38ee93c)
+
+
