@@ -6,7 +6,8 @@
 - Csoport: 12.D/1
 ---
 ##A mérés folyamata:
->A tranzisztor működésének vizsgálata során az NI myDAQ műszert használtam. A mérési áramkörben egy tranzisztort helyeztem el, amelynek bázisához egy ellenálláson keresztül biztosítottam vezérlőjelet. Az emitter- és kollektoráramok értékeit az áramkör működése során vizsgáltam. A mérési folyamat végén a kollektor-ellenálláson eső feszültséget mértem meg, amelyből következtetni lehetett a tranzisztor működésének állapotára és a vezérlőáram hatására. A mérések alapján a tranzisztor erősítési tényezőjét és kapcsolási karakterisztikáját is elemeztem.
+>A tranzisztor működésének vizsgálata során az NI myDAQ mérőeszközt használtuk, amely lehetővé tette a különböző paraméterek precíz mérését. A mérések során a tranzisztor bemeneti és kimeneti karakterisztikáit elemeztük, figyelembe véve a különböző áram- és feszültségviszonyokat. A mérési folyamat során különféle áramköröket építettünk, és különböző működési állapotokban mértük a tranzisztor válaszait. A végső lépésben, az áramkör végén elhelyezett ellenálláson mértük a feszültséget, hogy meghatározzuk a tranzisztor jellemzőit és működését az adott körülmények között. A mért adatok elemzése alapján pontosabb megértést nyertünk a tranzisztor működési elveiről és jellemzőiről.
+
 ---
 
 ## Méréshez használt eszközök / berendezések:
@@ -19,19 +20,20 @@ https://tinyurl.com/256r4w2w
 
 Kapcsolási rajz megvalósitása:
 
-!
+![unnamed](https://github.com/user-attachments/assets/0529c7a9-15a8-4b55-8d38-e8778f7f32f9)
+
 > ide akármi gondolat...
 
-| uBe    | uRc       |  I   |
-|--------|-----      |----------|
-| 0     | 0          |  |
-| 0,5   | 2,1 mV     |  |
-| 0,6   | 83,2 mV    |  |
-| 0,7   | 700 mV     |     |
-| 0,8   | 1960 mV    |      |
-| 0,9   | 2600 mV    |          | 
-| 1     | 2640 mV    |          |
-| 1,1   | 2660 mV    |          |
-| 1,2   | 2670 mV    |          |
-| 1,3   | 2680 mV    |          |
-
+| uBe    | uRc (V)  |  I   |
+|-------|-----      |----------|
+|  0    | 0         |          |
+| 0,5   | 0,002     |          |
+| 0,6   | 0,083     |          |
+| 0,7   | 0,7       |          |
+| 0,8   | 1,96      |          |
+| 0,9   | 2,6       |          | 
+| 1     | 2,64      |          |
+| 1,1   | 2,66      |          |
+| 1,2   | 2,67      |          |
+| 1,3   | 2,68      |          |
+> A mérés soránt azt vettem észre hogy 1,3V felett nem változnak az értékek.
