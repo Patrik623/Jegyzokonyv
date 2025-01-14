@@ -22,7 +22,7 @@ Kapcsolási rajz megvalósitása:
 
 ![unnamed](https://github.com/user-attachments/assets/0529c7a9-15a8-4b55-8d38-e8778f7f32f9)
 
-> ide akármi gondolat...
+> Mérés Eredményei:
 
 | uBe    | uRc (V)  |  I   |
 |-------|-----      |----------|
