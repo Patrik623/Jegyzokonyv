@@ -16,7 +16,6 @@
 
 ## Méréshez használt eszközök / berendezések:
 - NI Mydaq: 234246436835685SN
-- 
 
 
 
