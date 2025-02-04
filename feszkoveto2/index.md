@@ -26,5 +26,10 @@
 - A kapcsolási rajz az allábi linken található: 
 - Kapcsolási rajz megvalósitása:![unnamed](https://github.com/user-attachments/assets/b901e10f-d87d-45e8-ab25-347467ef3ad1)
 
+---
+
+## Mérésből kapott eredmények:
+- Au=2011mV/999,71mV=20,16mV=20*lg20,16=26,08dB
+- Au=1+1,470/1,468=0,998
 
    
