@@ -9,8 +9,7 @@
 ---   
 
 ## A mérés folyamata:
->A tranzisztor működésének vizsgálata során az NI myDAQ mérőeszközt használtuk, amely lehetővé tette a különböző paraméterek precíz mérését. A mérések során a tranzisztor bemeneti és kimeneti karakterisztikáit elemeztük, figyelembe véve a különböző áram- és feszültségviszonyokat. A mérési folyamat során különféle áramköröket építettünk, és különböző működési állapotokban mértük a tranzisztor válaszait. A végső lépésben, az áramkör végén elhelyezett ellenálláson mértük a feszültséget, hogy meghatározzuk a tranzisztor jellemzőit és működését az adott körülmények között. A mért adatok elemzése alapján pontosabb megértést nyertünk a tranzisztor működési elveiről és jellemzőiről.
-
+>Mérés célja: A mérés célja az volt, hogy meghatározzuk egy feszültségkövető áramkör működését és teljesítményét, miközben minimalizáljuk a mérőeszközök hatását az áramkörre. A feszültségkövető biztosítja, hogy a kimeneti feszültség a bemeneti feszültség pontos másolataként jelenjen meg, miközben nagy bemeneti impedanciát és alacsony kimeneti impedanciát biztosít, hogy ne zavarja meg az áramkör működését.
 
 ---
 
