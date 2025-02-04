@@ -4,4 +4,4 @@
 
 [Feszültségkövető mérése](https://github.com/Patrik623/Jegyzokonyv/blob/main/feszkoveto/index.md)
 
-[Feszültségkövető ellenálással](https://github.com/Patrik623/Jegyzokonyv/blob/main/feszkoveto2/index.md)
+[Feszültségkövető mérése ellenálással](https://github.com/Patrik623/Jegyzokonyv/blob/main/feszkoveto2/index.md)
