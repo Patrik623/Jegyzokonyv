@@ -23,7 +23,8 @@
 
 
 ## Kapcsolas:
-- A kapcsolási rajz az allábi linken található: https://www.falstad.com/circuit/e-amp-invert.html
+- A kapcsolási rajz: ![image](https://github.com/user-attachments/assets/d8749d98-4a4e-4bfd-8ceb-9c389a618da5)
+
 - Kapcsolási rajz megvalósitása: ![IMG_6145](https://github.com/user-attachments/assets/0d6f84a4-a044-48c8-aa54-dea558af76ab)
  
 
