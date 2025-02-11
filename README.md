@@ -6,4 +6,4 @@
 
 [Feszültségkövető mérése ellenálással](https://patrik623.github.io/Jegyzokonyv/feszkoveto2/)
 
-[invertáló műveleti erősítő](https://patrik623.github.io/Jegyzokonyv/tranzisztor_működésének_vizsgálata/)
+[invertáló műveleti erősítő](https://patrik623.github.io/Jegyzokonyv/invertmuveleterosito/)
