@@ -34,5 +34,9 @@
 ## Mérési értékek:
 -![0](https://github.com/user-attachments/assets/706e441b-90cf-4dd2-9a64-9d27816178ca)
 
+## Mérési eredmények:
+- Au=-Uki/Ube=-Rv/Rbe= 1.0068
+- au=20*lg(Au)= 0.58dB
+
 
    
