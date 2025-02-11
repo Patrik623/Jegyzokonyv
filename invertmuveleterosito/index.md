@@ -2,14 +2,14 @@
 ---  
 - Mérést végezte: Kiss Patrik
 - Mérés helye: Villamos 3 labor
-- Mérés ideje: 2025.02.04.
+- Mérés ideje: 2025.02.11.
 - Csoport: 12.D/1
 
 
 ---   
 
 ## A mérés folyamata:
->Mérés célja: A mérés célja az volt, hogy meghatározzuk egy feszültségkövető áramkör működését és teljesítményét, miközben minimalizáljuk a mérőeszközök hatását az áramkörre. A feszültségkövető biztosítja, hogy a kimeneti feszültség a bemeneti feszültség pontos másolataként jelenjen meg, miközben nagy bemeneti impedanciát és alacsony kimeneti impedanciát biztosít, hogy ne zavarja meg az áramkör működését.
+>Mérés célja: Az invertáló művelet erősítő mérésének célja annak meghatározása, hogy az erősítő hogyan reagál a bemeneti jel változásaira, különösen, amikor a bemenet pozitív és negatív irányba is változik. Az invertáló konfigurációban a bemeneti jel polaritása megfordul, és ennek hatására mérjük, hogy az erősítő képes-e az előírt erősítési tényezővel, torzítás nélkül továbbítani a jelet. A mérés célja az erősítő linearitásának, stabilitásának és frekvenciaválaszának ellenőrzése, hogy biztosítani lehessen a kívánt működési paramétereknek való megfelelést.
 
 ---
 
