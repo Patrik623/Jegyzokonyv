@@ -36,7 +36,7 @@
 
 
 ## Mérési eredmények:
-- ![image](https://github.com/user-attachments/assets/db40f56b-859e-4090-a5d3-4c5225a96708)
+
 
 
 
