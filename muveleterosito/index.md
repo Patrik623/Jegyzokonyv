@@ -1,5 +1,5 @@
 
-# Feszültségkövető mérése
+# Művelet erősitő
 ---  
 - Mérést végezte: Kiss Patrik
 - Mérés helye: Villamos 3 labor
