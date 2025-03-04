@@ -1,4 +1,4 @@
-# Feszültségkövető mérése
+# Nem invertáló műveleti erősitő
 ---  
 - Mérést végezte: Kiss Patrik
 - Mérés helye: Villamos 3 labor
