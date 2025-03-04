@@ -25,8 +25,8 @@
 
 
 ## Kapcsolas:
-
-- Kapcsolási rajz megvalósitása: ![image](https://github.com/user-attachments/assets/81e87f81-ed6d-4b0a-a85c-167d92a51eb5)
+ - Felüláteresztő Kapcsolási rajz megvalósítása: ![image](https://github.com/user-attachments/assets/add9845f-d8d1-4000-a084-830b42f8086e)
+ - Aluláteresztő Kapcsolási rajz megvalósitása: ![image](https://github.com/user-attachments/assets/81e87f81-ed6d-4b0a-a85c-167d92a51eb5)
 
  
 
