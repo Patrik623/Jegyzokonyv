@@ -4,7 +4,7 @@
 
 [Feszültségkövető mérése](https://patrik623.github.io/Jegyzokonyv/feszkoveto/)
 
-[Nem invertalo muvelet erosito ](https://patrik623.github.io/Jegyzokonyv/neminvertalomuveleterosito/)
+[Nem invertalo muvelet erosito ](https://patrik623.github.io/Jegyzokonyv/neminvertaloaramerosito/)
 
 [invertáló műveleti erősítő](https://patrik623.github.io/Jegyzokonyv/invertmuveleterosito/)
 
