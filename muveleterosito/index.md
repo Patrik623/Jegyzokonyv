@@ -36,13 +36,13 @@
 
 
 ## Mérési eredmények:
--Aluláteresztő: - **Frekvenciaváltás (fh):** 1380 Hz
-                - **Erősítés (Au):** 3,07
-                - **Erősítés dB-ben (AudB):** 9,73 dB
+-Aluláteresztő:  **Frekvenciaváltás (fh):** 1380 Hz
+                 **Erősítés (Au):** 3,07
+                 **Erősítés dB-ben (AudB):** 9,73 dB
 
--Felüláteresztő: - **Frekvenciaváltás (fh):** 3981 Hz
-                 - **Erősítés (Au):** 3,07
-                 - **Erősítés dB-ben (AudB):** 9,54 dB                
+-Felüláteresztő:  **Frekvenciaváltás (fh):** 3981 Hz
+                  **Erősítés (Au):** 3,07
+                  **Erősítés dB-ben (AudB):** 9,54 dB                
 
                 
 
