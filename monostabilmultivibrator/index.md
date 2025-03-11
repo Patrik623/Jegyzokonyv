@@ -26,8 +26,8 @@
 ## Kapcsolas:
 - Kapcsolási rajz az alábbi linken megtalálható: ![circuit-20250311-1209](https://github.com/user-attachments/assets/b0562f80-33d9-4bc7-b73f-6a13d0cd2130)
   
-- Kapcsolási rajz megvalósitása: ![image](https://github.com/user-attachments/assets/de53c4b7-034d-40dc-9698-e7786c08982f)
-
+## Kapcsolási rajz megvalósitása: 
+![image](https://github.com/user-attachments/assets/de53c4b7-034d-40dc-9698-e7786c08982f)
 
 ---
 
