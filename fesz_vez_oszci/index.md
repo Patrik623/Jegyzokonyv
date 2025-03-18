@@ -1,6 +1,8 @@
 # Feszültség vezető oszcillátor
 
 
+
+
 ## Kísérlet célja: Egy feszültségvezérelt oszcillátor megépítése és működésének vizsgálata. A kisérlet során a kimeneti feszültség és a frekvencia összefüggésének vizsgálata történik egy LED villogásának szabályozásán keresztül.
 
 
