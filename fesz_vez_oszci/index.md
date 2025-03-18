@@ -1,6 +1,13 @@
 # Feszültség vezető oszcillátor
 
+---  
+- Mérést végezte: Kiss Patrik
+- Mérés helye: Villamos 3 labor
+- Mérés ideje: 2025.02.11.
+- Csoport: 12.D/1
 
+
+---   
 
 
 ## Kísérlet célja: Egy feszültségvezérelt oszcillátor megépítése és működésének vizsgálata. A kisérlet során a kimeneti feszültség és a frekvencia összefüggésének vizsgálata történik egy LED villogásának szabályozásán keresztül.
